@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Medicine Schedules</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clear_history">Clear History</string>
+    <string name="action_update">Update Schedules</string>
+    <string name="action_upload">Upload Intake Records</string>
+    <string name="action_logout">LogOut</string>
+    <string name="action_view_history">View Intake History</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list_of_sched_med">Medicine Schedules</string>
+    <string name="title_activity_med_intake_history">Med Intake History</string>
+    <string name="title_activity_add_intake_history">Add Intake History</string>
+
+</resources>
